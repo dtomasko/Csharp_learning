@@ -1,4 +1,4 @@
-[ Go to HOME](../README.md)
+[ Go to HOME](../../README.md)
 
 # WinForms Calculator
 
@@ -16,7 +16,7 @@ A simple calculator application made with C# and Windows Forms.
 
 ### Option 1 — Run the Executable
 
-- Download the latest `.exe`
+- Download the latest `.exe` from release: https://github.com/dtomasko/Csharp_learning/releases
 - Run the application
 
 ### Option 2 — Run From Source
@@ -29,4 +29,4 @@ git clone https://github.com/dtomasko/Csharp_learning
 
 ```
 
-[ Go to HOME](../README.md)
+[ Go to HOME](../../README.md)
