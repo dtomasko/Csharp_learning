@@ -23,6 +23,8 @@ Up until **LV 9** we weren't allowed to use class string. Most exercises include
 | **LV 11**               | [Exam 02](./LV11-Exam02/LV11_tasks.md)                                      | Second major assessment part 1.                   |
 | **LV 12**               | [Exam 02 - Part 2](./LV12-Exam02-part2/LV12_tasks.md)                       | Second major assessment part 2.                   |
 | **LV 13**               | [Lists & ArrayList](./LV13-List_ArrayList/LV13_tasks.md)                    | Dynamic collections and advanced data handling.   |
+| **LV 14**               | [File, Directory & Path](./LV14-ClassFile,Directory,Path/LV14_tasks.md)     | File operations, directories, and path handling.  |
+| **LV 15**               | [Exam 03](./LV15-Exam03/LV15-tasks.md)                                      | Advanced file and directory operations.           |
 | **Calculator WinForms** | [Calculator](./Mini_Procjets/Calculator_WinForms/Calc.md)                   | Calculator with UI using WinForms.                |
 
 ---
