@@ -26,8 +26,7 @@ Up until **LV 9** we weren't allowed to use class string. Most exercises include
 | **LV 14**               | [File, Directory & Path](./LV14-ClassFile,Directory,Path/LV14_tasks.md)     | File operations, directories, and path handling.  |
 | **LV 15**               | [Exam 03](./LV15-Exam03/LV15-tasks.md)                                      | Advanced file and directory operations.           |
 | **Calculator WinForms** | [Calculator](./Mini_Procjets/Calculator_WinForms/Calc.md)                   | Calculator with UI using WinForms.                |
-
----
+| **Hangman game**        | [Hangman game](./Mini_Procjets/Hangman/hangman.md)                          | Hangman game in terminal.                         |
 
 ## General Information
 
@@ -36,3 +35,8 @@ Up until **LV 9** we weren't allowed to use class string. Most exercises include
 - **Structure**: Each level folder contains a set of tasks and their implementations.
 
 ---
+
+<br><br><br><br>
+![alt text](Mini_Procjets/Calculator_WinForms/calc_image.png)
+![alt text](Mini_Procjets/Hangman/hangman1.png)!
+![alt text](Mini_Procjets/Hangman/hangman2.png)
